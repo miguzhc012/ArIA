@@ -70,15 +70,3 @@ assistente/
 ├── tools/               ← (Fase 5+) ferramentas
 └── logs/                ← arquivos de log automáticos
 ```
-
-## Fases de desenvolvimento
-
-- [x] **Fase 1** — Chat local com Ollama
-- [ ] **Fase 2** — Memória persistente SQLite
-- [ ] **Fase 3** — Resumo automático de conversa
-- [ ] **Fase 4** — Busca contextual de memória
-- [ ] **Fase 5** — Pesquisa web
-- [ ] **Fase 6** — Manipulação de arquivos
-- [ ] **Fase 7** — Controle do Linux
-- [ ] **Fase 8** — Voz local
-- [ ] **Fase 9** — Automações inteligentes
