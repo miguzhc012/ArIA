@@ -1,0 +1,56 @@
+2026-05-10 14:30:38 | __main__             | INFO     | Iniciando assistente pessoal
+2026-05-10 14:30:38 | core.session         | INFO     | Nova sessão iniciada: 20260510_143038
+2026-05-10 14:30:38 | core.agent           | INFO     | Agent iniciado | modelo: llama3.2 | sessão: 20260510_143038
+2026-05-10 14:30:58 | core.agent           | INFO     | Processando input (sessão 20260510_143038, msg #1)
+2026-05-10 14:30:58 | core.ollama_client   | ERROR    | Erro inesperado no chat_stream: 404 Client Error: Not Found for url: http://localhost:11434/api/chat
+2026-05-10 14:30:58 | core.agent           | INFO     | Resposta gerada | 10 tokens aprox. | sessão: 20260510_143038
+2026-05-10 14:39:18 | core.agent           | INFO     | Processando input (sessão 20260510_143038, msg #3)
+2026-05-10 14:41:07 | core.agent           | INFO     | Resposta gerada | 24 tokens aprox. | sessão: 20260510_143038
+2026-05-10 14:42:39 | core.agent           | INFO     | Processando input (sessão 20260510_143038, msg #5)
+2026-05-10 14:43:19 | __main__             | INFO     | Sessão interrompida com Ctrl+C
+2026-05-10 14:43:19 | __main__             | INFO     | Assistente encerrado normalmente
+2026-05-10 14:43:31 | __main__             | INFO     | Iniciando assistente pessoal
+2026-05-10 14:43:31 | core.session         | INFO     | Nova sessão iniciada: 20260510_144331
+2026-05-10 14:43:31 | core.agent           | INFO     | Agent iniciado | modelo: llama3.2 | sessão: 20260510_144331
+2026-05-10 14:43:53 | core.agent           | INFO     | Processando input (sessão 20260510_144331, msg #1)
+2026-05-10 14:44:56 | core.agent           | INFO     | Resposta gerada | 44 tokens aprox. | sessão: 20260510_144331
+2026-05-10 14:54:50 | __main__             | INFO     | Sessão interrompida com Ctrl+C
+2026-05-10 14:54:50 | __main__             | INFO     | Assistente encerrado normalmente
+2026-05-10 15:15:23 | __main__             | INFO     | Iniciando assistente pessoal
+2026-05-10 15:15:23 | core.session         | INFO     | Nova sessão iniciada: 20260510_151523
+2026-05-10 15:15:23 | core.agent           | INFO     | Agent iniciado | modelo: qwen2.5:1.5b | sessão: 20260510_151523
+2026-05-10 15:15:29 | core.agent           | INFO     | Processando input (sessão 20260510_151523, msg #1)
+2026-05-10 15:16:42 | core.agent           | INFO     | Resposta gerada | 42 tokens aprox. | sessão: 20260510_151523
+2026-05-10 15:25:24 | __main__             | INFO     | Iniciando assistente pessoal
+2026-05-10 15:25:24 | core.session         | INFO     | Nova sessão iniciada: 20260510_152524
+2026-05-10 15:25:24 | core.agent           | INFO     | Agent iniciado | modelo: qwen2.5:1.5b | sessão: 20260510_152524
+2026-05-10 15:25:27 | core.agent           | INFO     | Processando input (sessão 20260510_152524, msg #1)
+2026-05-10 15:26:31 | core.agent           | INFO     | Resposta gerada | 19 tokens aprox. | sessão: 20260510_152524
+2026-05-10 15:35:13 | __main__             | INFO     | Sessão interrompida com Ctrl+C
+2026-05-10 15:35:13 | __main__             | INFO     | Assistente encerrado normalmente
+2026-05-10 15:39:27 | __main__             | INFO     | Iniciando assistente pessoal
+2026-05-10 15:39:27 | core.session         | INFO     | Nova sessão iniciada: 20260510_153927
+2026-05-10 15:39:27 | core.agent           | INFO     | Agent iniciado | modelo: qwen2.5:1.5b | sessão: 20260510_153927
+2026-05-10 15:39:49 | core.agent           | INFO     | Processando input (sessão 20260510_153927, msg #1)
+2026-05-10 15:41:11 | core.agent           | INFO     | Resposta gerada | 7 tokens aprox. | sessão: 20260510_153927
+2026-05-10 15:41:11 | core.agent           | INFO     | Processando input (sessão 20260510_153927, msg #3)
+2026-05-10 15:41:28 | core.agent           | INFO     | Resposta gerada | 13 tokens aprox. | sessão: 20260510_153927
+2026-05-10 15:41:28 | core.agent           | INFO     | Processando input (sessão 20260510_153927, msg #5)
+2026-05-10 15:41:48 | core.agent           | INFO     | Resposta gerada | 19 tokens aprox. | sessão: 20260510_153927
+2026-05-10 15:41:48 | core.agent           | INFO     | Processando input (sessão 20260510_153927, msg #7)
+2026-05-10 15:42:09 | core.agent           | INFO     | Resposta gerada | 18 tokens aprox. | sessão: 20260510_153927
+2026-05-10 15:42:09 | core.agent           | INFO     | Processando input (sessão 20260510_153927, msg #9)
+2026-05-10 15:43:13 | core.agent           | INFO     | Resposta gerada | 14 tokens aprox. | sessão: 20260510_153927
+2026-05-10 15:43:38 | core.agent           | INFO     | Processando input (sessão 20260510_153927, msg #11)
+2026-05-10 15:45:26 | core.agent           | INFO     | Resposta gerada | 18 tokens aprox. | sessão: 20260510_153927
+2026-05-10 15:57:52 | __main__             | INFO     | Sessão interrompida com Ctrl+C
+2026-05-10 15:57:52 | __main__             | INFO     | Assistente encerrado normalmente
+2026-05-10 15:57:56 | __main__             | INFO     | Iniciando assistente pessoal
+2026-05-10 15:57:56 | core.session         | INFO     | Nova sessão iniciada: 20260510_155756
+2026-05-10 15:57:56 | core.agent           | INFO     | Agent iniciado | modelo: qwen2.5:1.5b | sessão: 20260510_155756
+2026-05-10 15:57:59 | core.agent           | INFO     | Processando input (sessão 20260510_155756, msg #1)
+2026-05-10 16:06:48 | __main__             | INFO     | Iniciando assistente pessoal
+2026-05-10 16:06:48 | core.session         | INFO     | Nova sessão iniciada: 20260510_160648
+2026-05-10 16:06:48 | core.agent           | INFO     | Agent iniciado | modelo: qwen2.5:1.5b | sessão: 20260510_160648
+2026-05-10 16:07:04 | core.agent           | INFO     | Processando input (sessão 20260510_160648, msg #1)
+2026-05-10 16:08:29 | core.agent           | INFO     | Resposta gerada | 19 tokens aprox. | sessão: 20260510_160648

@@ -1,0 +1,24 @@
+# requirements.txt
+# Dependências do assistente pessoal local
+#
+# Instale com: pip install -r requirements.txt
+#
+# Por que tão poucas dependências na Fase 1?
+# Intencionalmente minimalista. 'requests' é a única biblioteca externa
+# necessária para comunicar com o Ollama. O restante é Python padrão.
+# Nas próximas fases adicionaremos apenas o que for necessário.
+
+# HTTP client - para comunicar com a API do Ollama
+requests>=2.31.0
+
+# Fase 2 (banco de dados) - sqlite3 já vem no Python padrão, sem necessidade de instalar
+
+# Fase 5 (pesquisa web) - será adicionado quando necessário
+# duckduckgo-search>=3.9.0
+
+# Fase 6 (leitura de PDF) - será adicionado quando necessário  
+# pypdf>=3.0.0
+
+# Fase 8 (voz) - será adicionado quando necessário
+# openai-whisper
+# pyttsx3
